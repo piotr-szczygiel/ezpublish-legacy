@@ -1,0 +1,3 @@
+[submodule "extension/formmaker"]
+	path = extension/formmaker
+	url = git@github.com:makingwaves/formmaker.git
